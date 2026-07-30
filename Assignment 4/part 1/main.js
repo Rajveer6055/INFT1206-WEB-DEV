@@ -9,7 +9,6 @@ function randomValueFromArray(array) {
   return array[random];
 }
 
-
 // Solution: Raw text strings
 
 const characters = ["Willy the Goblin", "Big Daddy", "Father Christmas"];
