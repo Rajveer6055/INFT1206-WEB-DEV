@@ -14,6 +14,7 @@ const images = [
 ];
 
 
+
 // Base URL for the images
 const baseURL =
   "https://mdn.github.io/shared-assets/images/examples/learn/gallery/";
