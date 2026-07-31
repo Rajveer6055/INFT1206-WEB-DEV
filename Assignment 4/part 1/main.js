@@ -9,7 +9,7 @@ function randomValueFromArray(array) {
   return array[random];
 }
 
-// Solution: Raw text strings
+//Raw text strings
 
 const characters = ["Willy the Goblin", "Big Daddy", "Father Christmas"];
 const places = ["the soup kitchen", "Disneyland", "the White House"];
@@ -19,7 +19,7 @@ const events = [
   "turned into a slug and slithered away",
 ];
 
-// Solution: Partial return random string function
+//Partial return random string function
 
 function returnRandomStoryString() {
   const randomCharacter = randomValueFromArray(characters);
@@ -31,7 +31,7 @@ function returnRandomStoryString() {
   return storyText;
 }
 
-// Solution: Event listener and partial generate function definition
+//Event listener and partial generate function definition
 
 generateBtn.addEventListener("click", generateStory);
 
