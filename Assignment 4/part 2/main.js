@@ -15,7 +15,7 @@ const images = [
 ];
 
 //url for all the images
-const baseURL ="";
+const baseURL ="https://rajveer6055.github.io/INFT1206-WEB-DEV/Assignment 4/part 2/img/";
 
 //Loop for image
 
